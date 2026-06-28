@@ -4,41 +4,39 @@
 
 Modern responsive portfolio website showcasing my skills, education, projects, and experience.
 
-## 👨‍💻 About Me
+# Full Stack Web Development Portfolio 🚀
 
-B.Tech Computer Science student passionate about  
-Artificial Intelligence, Data Science, and Web Development.
+## Task Name
+Modern Portfolio Website Development
 
-I enjoy building applications, solving problems, and learning new technologies.
+## Project Overview
+Developed a modern and responsive personal portfolio website to showcase profile, skills, education, internship experience, projects, and contact details.
 
-## 🛠️ Skills
+The website is designed with a clean UI to represent my journey as a Computer Science student and highlight my interest in AI, Data Science, and Web Development.
 
-- Python
-- Java
-- C
-- HTML/CSS
+## Tools Used
+
+- HTML5
+- CSS3
 - JavaScript
-- Node.js
-- MySQL
-- Power BI
+- VS Code
+- Git & GitHub
 
-## 🎓 Education
+## Skills
 
-**B.Tech Computer Science**  
-Jyothishmathi Institute of Technology and Science  
-Expected Graduation: 2027 | CGPA: 8.25/10
+- Frontend Web Development
+- Responsive Web Design
+- UI Design
+- Problem Solving
+- JavaScript Basics
+- Web Application Development
 
+## Author
 
+Sabeel
 
-## 🚀 Project
+## Internship / Program
 
-**IoT Based Smart Kitchen Management System**
+Full Stack Web Development
 
-IoT solution for monitoring appliances, inventory, and energy usage using web technologies.
-
-## 📫 Contact
-
-Email: mdsabeelkhan08@gmail.com  
-Phone: +91 9177082302  
-Location: Karimnagar, Telangana
-
+CIN: FIT/JUN26/FS19422
