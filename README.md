@@ -14,6 +14,19 @@ Developed a modern and responsive personal portfolio website to showcase profile
 
 The website is designed with a clean UI to represent my journey as a Computer Science student and highlight my interest in AI, Data Science, and Web Development.
 
+## Features
+Responsive Portfolio Design
+Hero Section
+About Me Section
+Skills Showcase
+Education Details
+Internship Experience
+Project Portfolio
+Contact Information
+Social Media Links
+Smooth Navigation
+Mobile-Friendly Layout
+
 ## Tools Used
 
 - HTML5
